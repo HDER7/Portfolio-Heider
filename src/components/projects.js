@@ -4,7 +4,7 @@ export function Projects (){
                 <h1>Projects</h1>
                 <div className="col-2 project-list">
                     <div className="project-tile">
-                        <img src="http://127.0.0.1:5500/src/img/Captura%20de%20pantalla%202023-08-14%20181515.png"
+                        <img src="https://raw.githubusercontent.com/HDER7/Portfolio-Heider/master/src/img/Captura%20de%20pantalla%202023-08-14%20181515.png"
                             alt="" />
                         <div className="overlay">
                             <div className="project-description">
@@ -13,7 +13,7 @@ export function Projects (){
                         </div>
                     </div>
                     <div className="project-tile">
-                        <img src="http://127.0.0.1:5500/src/img/xc.png"
+                        <img src="https://raw.githubusercontent.com/HDER7/Portfolio-Heider/master/src/img/xc.png"
                             alt="" />
                         <div className="overlay">
                             <div className="project-description">
@@ -25,7 +25,7 @@ export function Projects (){
                         </div>
                     </div>
                     <div className="project-tile">
-                        <img src="http://127.0.0.1:5500/src/img/pot.png"
+                        <img src="https://raw.githubusercontent.com/HDER7/Portfolio-Heider/master/src/img/pot.png"
                             alt="" />
                         <div className="overlay">
                             <div className="project-description">
@@ -37,7 +37,7 @@ export function Projects (){
                         </div>
                     </div>
                     <div className="project-tile">
-                        <img src="http://127.0.0.1:5500/src/img/facturacion.png"
+                        <img src="https://raw.githubusercontent.com/HDER7/Portfolio-Heider/master/src/img/facturacion.png"
                             alt="" />
                         <div className="overlay">
                             <div className="project-description">

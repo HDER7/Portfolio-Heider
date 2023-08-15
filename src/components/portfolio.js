@@ -9,7 +9,7 @@ function Portfolio(){
         <div className="portfolio">
                 <section className="header">
                 <img className="header-img"
-                    src='http://127.0.0.1:5500/src/img/yo11.png'
+                    src='https://raw.githubusercontent.com/HDER7/Portfolio-Heider/master/src/img/yo11.png'
                     alt="Me" />
                 <h1>Heider Rivas</h1>
                 <h2>Software engineer</h2>
